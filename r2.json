@@ -4,5 +4,17 @@
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/relax_icon.png",
         "description": "description",
         "link": "https://itunes.apple.com/us/app/wee-puzzles/id1109420529?mt=8&at=11l4Vw&ct=relax2_tv"
+    },
+    {
+        "name": "Do not Press the Red Button",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/rb.png",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1120939568?mt=8&at=11l4Vw&ct=relax2_tv"
+    },
+    {
+        "name": "Mumbley Peg",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/mp.png",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1118875949?mt=8&at=11l4Vw&ct=relax2_tv"
     }
 ]

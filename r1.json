@@ -1,5 +1,11 @@
 [
     {
+        "name": "Chill & Relax Nature",
+        "icon": "http://a5.mzstatic.com/us/r30/Purple71/v4/da/f3/cc/daf3cc3c-a30b-9808-c304-490fd92601cf/icon600x600.jpeg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1109420529?mt=8&at=11l4Vw&ct=relax1_tv"
+    },
+    {
         "name": "Do not Press the Red Button",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/rb.png",
         "description": "description",
@@ -10,11 +16,5 @@
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/mp.png",
         "description": "description",
         "link": "https://itunes.apple.com/us/app/wee-puzzles/id1118875949?mt=8&at=11l4Vw&ct=relax_tv"
-    },
-    {
-        "name": "Chill & Relax",
-        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/relax_icon.png",
-        "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1109420529?mt=8&at=11l4Vw&ct=relax_tv"
     }
 ]

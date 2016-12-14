@@ -1,32 +1,51 @@
+
 [
     {
         "name": "Chill & Relax",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/relax_icon.png",
         "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1109420529?mt=8&at=11l4Vw&ct=relax4_tv"
+        "link": "https://itunes.apple.com/us/app/app/id1109420529?mt=8&at=11l4Vw&ct=relax7_tv"
     },
     {
         "name": "Chill & Relax Nature",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn.jpg",
         "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1172146024?mt=8&at=11l4Vw&ct=relax4_tv"
+        "link": "https://itunes.apple.com/us/app/app/id1172146024?mt=8&at=11l4Vw&ct=relax7_tv"
     },
     {
         "name": "Chill & Relax Fireplace",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn3.jpg",
         "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1176125543?mt=8&at=11l4Vw&ct=relax4_tv"
+        "link": "https://itunes.apple.com/us/app/app/id1176125543?mt=8&at=11l4Vw&ct=relax7_tv"
+    },
+    {
+        "name": "Chill & Relax TV Aquarium",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn4.jpg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/app/id1178995276?mt=8&at=11l4Vw&ct=relax7_tv"
+    },
+    {
+        "name": "Chill & Relax Mountains",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn6.jpg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/app/id1185438594?mt=8&at=11l4Vw&ct=relax7_tv"
+    },
+    {
+        "name": "Chill & Relax Night Sky",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn8.jpg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/app/id1185438813?mt=8&at=11l4Vw&ct=relax7_tv"
     },
     {
         "name": "Do not Press the Red Button",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/rb.png",
         "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1120939568?mt=8&at=11l4Vw&ct=relax4_tv"
+        "link": "https://itunes.apple.com/us/app/app/id1120939568?mt=8&at=11l4Vw&ct=relax7_tv"
     },
     {
         "name": "Mumbley Peg",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/mp.png",
         "description": "description",
-        "link": "https://itunes.apple.com/us/app/wee-puzzles/id1118875949?mt=8&at=11l4Vw&ct=relax4_tv"
+        "link": "https://itunes.apple.com/us/app/app/id1118875949?mt=8&at=11l4Vw&ct=relax7_tv"
     }
 ]

@@ -1,4 +1,11 @@
+
 [
+    {
+        "name": "Chill & Relax",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/relax_icon.png",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/app/id1109420529?mt=8&at=11l4Vw&ct=relax1_tv"
+    },
     {
         "name": "Chill & Relax Nature",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn.jpg",
@@ -10,6 +17,12 @@
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn3.jpg",
         "description": "description",
         "link": "https://itunes.apple.com/us/app/app/id1176125543?mt=8&at=11l4Vw&ct=relax1_tv"
+    },
+    {
+        "name": "Chill & Relax TV Aquarium",
+        "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/crn4.jpg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/app/id1178995276?mt=8&at=11l4Vw&ct=relax1_tv"
     },
     {
         "name": "Chill & Relax Mountains",

@@ -1,6 +1,12 @@
 
 [
     {
+        "name": "2048 for Apple TV",
+        "icon": "http://is3.mzstatic.com/image/thumb/Purple128/v4/b4/7a/55/b47a55eb-b286-5a6c-4600-7d3e5fefffb4/source/175x105bb.jpg",
+        "description": "description",
+        "link": "https://itunes.apple.com/us/app/king-of-2048/id1265086914?at=11l4Vw&ct=relax1_tv"
+    },
+    {
         "name": "Chill & Relax",
         "icon": "https://raw.githubusercontent.com/whiteplanet/alist/master/relax_icon.png",
         "description": "description",
